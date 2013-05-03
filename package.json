@@ -1,0 +1,39 @@
+{
+  "name": "reveal.jade",
+  "version": "0.1.0",
+  "description": "The HTML Presentation Framework",
+  "homepage": "http://lab.hakim.se/reveal-js",
+  "scripts": {
+    "test": "grunt jshint",
+    "start": ""
+  },
+  "author": {
+    "name": "Christoph Wagner",
+    "email": "chwagner@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cw4gn3r/reveal.jade.git"
+  },
+  "engines": {
+    "node": "~0.10.0"
+  },
+  "dependencies": {
+    "reveal.js": "git://github.com/hakimel/reveal.js.git",
+    "jade": "0.9.1",
+    "markdown-js": "0.0.3"
+  },
+  "devDependencies": {
+    "grunt-contrib-watch": "~0.2.0",
+    "grunt-contrib-jade": "~0.5.0",
+    "grunt-contrib-connect": "~0.2.0",
+    "grunt-zip": "~0.7.0",
+    "grunt": "~0.4.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/hakimel/reveal.js/blob/master/LICENSE"
+    }
+  ]
+}
