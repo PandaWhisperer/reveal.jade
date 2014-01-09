@@ -19,7 +19,7 @@
     "node": "~0.10.0"
   },
   "dependencies": {
-    "reveal.js": "git://github.com/hakimel/reveal.js.git",
+    "reveal.js": "2.6.0",
     "jade": "0.9.1",
     "markdown-js": "0.0.3"
   },
