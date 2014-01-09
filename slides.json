@@ -1,0 +1,16 @@
+{
+  "title": "My first presentation",
+  "author": "Christoph Wagner",
+  "description": "A presentation about stuff",
+  "options": {
+    "theme": "beige"
+  },
+  "reveal_js": "node_modules/reveal.js",
+	"slides": [
+		"title",
+    "slide1",
+    "markdown",
+    "vertical",
+    "code"
+	]
+}
